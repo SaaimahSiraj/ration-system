@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any queries or suggestions, feel free to reach out:
 - **Name**: Saaimah Siraj
-- **Email**: [Your Email Address]
+- **Email**: [saaimahsiraj23@gmail.com]
 - **GitHub**: [SaaimahSiraj](https://github.com/SaaimahSiraj)
